@@ -1,7 +1,7 @@
 <template>
   <div class="inform">
     <v-row>
-      <img width="27%" height="27%" src="../static/photo_2023-02-25_18-17-55.jpg" alt="photo">
+      <img class="photo" width="27%" height="27%" src="../static/photo_2023-02-25_18-17-55.jpg" alt="photo">
       <v-col>
         <div class="name-text">
           <p><b>Фамилия:</b> Полевиков</p>
@@ -72,6 +72,11 @@ padding: 40px;
 margin-top: 20px;
 }
 
+.photo {
+  position: sticky;
+  top: 20px;
+  /*min-height: 2em;*/
+}
 .name-text {
 border: 1px solid rgb(34, 128, 250);
 padding: 15px;
