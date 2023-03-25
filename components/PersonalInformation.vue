@@ -74,7 +74,7 @@ margin-top: 20px;
 
 .photo {
   position: sticky;
-  top: 20px;
+  top: 85px;
   /*min-height: 2em;*/
 }
 .name-text {
