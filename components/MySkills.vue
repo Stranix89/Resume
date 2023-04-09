@@ -20,6 +20,9 @@
             Vue
           </li>
           <li>
+            Vue Router
+          </li>
+          <li>
             Nuxt
           </li>
           <li>
@@ -32,10 +35,10 @@
             Git
           </li>
           <li>
-            Docker
+            понимаю принцип работы Docker
           </li>
           <li>
-            REST
+            REST API
           </li>
           <li>
             DOM
@@ -65,6 +68,9 @@
           </li>
           <li>
             Работа в команде
+          </li>
+          <li>
+            Читаю и понимаю чужой код
           </li>
           <li>
             Пользователь ПК
