@@ -8,10 +8,10 @@
     <v-main>
       <Nuxt />
     </v-main>
-    <v-footer app max-height="58px">
+    <!--<v-footer app max-height="58px">
       <span>&copy; {{ new Date().getFullYear() }}</span>
       <MyContacts />
-    </v-footer>
+    </v-footer>-->
   </v-app>
 </template>
 
