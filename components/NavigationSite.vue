@@ -61,7 +61,7 @@ nav {
 
 nav .navbar {
   height: 100%;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: auto;
   display: flex;
   align-items: center;
@@ -133,7 +133,7 @@ nav .navbar .nav-links .sidebar-logo .bx-x {
   }
 }
 
-@media (max-width: 800px) {
+/*@media (max-width: 800px) {
   nav .navbar .nav-links {
     display: block;
     position: fixed;
@@ -190,5 +190,5 @@ nav .navbar .nav-links .sidebar-logo .bx-x {
   nav .navbar .bx-menu {
     cursor: pointer;
   }
-}
+}*/
 </style>

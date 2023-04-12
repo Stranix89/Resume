@@ -21,8 +21,8 @@
           <v-card>
             <v-img
               src="..//cinema.jpg"
-              height="467px"
-              width="900px"
+              max-height="467px"
+              max-width="900px"
               cover
               class="portfolio-img"
             ></v-img>
@@ -48,7 +48,7 @@
             <v-img
               src="..//layout1.jpg"
               cover
-              height="467px"
+              max-height="467px"
               class="portfolio-img"
             ></v-img>
             <v-card-title class="portfolio-img-text">
@@ -61,7 +61,7 @@
             <v-img
               src="..//layout2.jpg"
               cover
-              height="467px"
+              max-height="467px"
               class="portfolio-img"
             ></v-img>
             <v-card-title class="portfolio-img-text">
